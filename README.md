@@ -1,4 +1,4 @@
-# encryption-demo
+# Encryption Demo
 
 A short demonstration of encryption of various methods, encluding Diffie-Hellman and RSA. Perhaps some others will be added too. 
 

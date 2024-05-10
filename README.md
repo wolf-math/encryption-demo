@@ -6,7 +6,7 @@ This is not performant code. It is meant simply to be a learning tool to demonst
 
 ## Getting Started
 You should use this with a vitual environment. In your terminal, navigate to the cloned project then follow the steps below. 
-1. Type `python3 -m venv venv`. This only needs to be done the first time.
+1. Type `python3 -m venv venv`. This only needs to be done the **first time**.
 2. Activate the virtual environment `source venv/bin/activate`. There will be an indication in your terminal that the virtual environment is working.
 3. Install the dependencies with `pip3 install -r requirements.txt`.
 4. Run `jupyter notebook` and everything should spin up in the browser. The requirements only need to be installed the first time.
